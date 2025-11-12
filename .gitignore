@@ -1,0 +1,25 @@
+# Python Virtual Environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Environment variables (VERY IMPORTANT - contains secrets)
+.env
+
+# Database file (contains user data)
+caresync.db
+
+# Local SSL certificate files
+certs/*.pem
+
+# migration cache files
+migrations/
+
+
+# Temporary file uploads
+temp_uploads/
+
+# Ignore the local static uploads folder containing user/doctor files
+static/uploads/
