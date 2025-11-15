@@ -61,7 +61,7 @@ CareSync unifies healthcare communication into one system. It includes doctor an
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/zygisk-enc/caresync.git
+git clone https://github.com/adil-a11y/projects.git
 cd caresync
 ```
 
